@@ -18,7 +18,7 @@ nav > ul {
   background-color: #eee8d5;
 }
 
-#contents #favs #facts #types {
+#contents, #favs, #facts, #types {
   color: #93a1a1;
 }
 
@@ -34,16 +34,16 @@ a:not(.nohighlight) {
   background-color: #719e07;
 }
 
-a:external {
+.external {
   background-color: #2694d8;
 }
 
 ol li:first-child {
-  color:#719e47;
+  color: #719e47;
 }
 
 ol li:last-child {
-  color:#2aa198;
+  color: #2aa198;
 }
 
 .types li:nth-child(odd) {
