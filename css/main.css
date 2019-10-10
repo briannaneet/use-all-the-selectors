@@ -1,5 +1,5 @@
 body {
-  background-color: fdf6e3;
+  background-color: #fdf6e3;
 }
 
 header, footer {
@@ -11,14 +11,14 @@ nav > ul {
 }
 
 .logo {
-  text.transform: uppercase;
+  text-transform: uppercase;
 }
 
 .wrapper {
   background-color: #eee8d5;
 }
 
-contents favs facts types {
+#contents #favs #facts #types {
   color: #93a1a1;
 }
 
